@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_color">#FFFFFFFF</color>
+    <color name="primary_color">#000000</color>
+    <color name="background_color">#F0F6FF</color>
+    <color name="success_color">#00BE9E</color>
+    <color name="failure_color">#FF6E6E</color>
+    <color name="warning_color">#FFA741</color>
+    <color name="border_color">#BCC1CD</color>
+    <color name="grey_color">#6E7478</color>
+    <color name="text_hint_color">#8C9296</color>
+    <color name="button_disable_color">#B8B8B8</color>
+    <color name="button_enable_color">#25408F</color>
+</resources>
